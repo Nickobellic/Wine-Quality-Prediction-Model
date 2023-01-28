@@ -3,7 +3,8 @@ This ML model predicts the quality of Red Wine and White Wine for the given Chem
 
 Prediction for Red Wine Quality
 
-![Wine_Quality_Prediction ipynb - Colaboratory - Google Chrome 28-01-2023 12_58_26](https://user-images.githubusercontent.com/91176771/215253585-4476fa20-c18f-4ea0-955c-56e9e4b1b19a.png)
+![Wine_Quality_Prediction ipynb - Colaboratory - Google Chrome 28-01-2023 13_07_27](https://user-images.githubusercontent.com/91176771/215253667-7c69aada-ced1-49a8-bdec-6d7f5c6cfc5c.png)
+
 
 Prediction for White Wine Quality
 
